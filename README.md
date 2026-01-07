@@ -1,3 +1,4 @@
+<img width="1396" height="364" alt="Screenshot 2026-01-07 185304" src="https://github.com/user-attachments/assets/002719be-7f6a-4561-9707-63463d36864d" />
 # 🛡️ NIST 800-53 Compliance Audit: UAV Ground Control System
 
 ### 📌 Project Overview
