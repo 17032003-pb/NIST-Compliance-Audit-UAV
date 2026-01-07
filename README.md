@@ -13,4 +13,4 @@ This project simulates a **GRC (Governance, Risk, and Compliance)** audit for a 
 * `Audit_Report_Summary.pdf`: Executive-level summary of risks and "No-Go" decision.
 
 ---
-*Created by Tharun Pranav - Aeronautical Engineer & Security+ Analyst*
+*Created by Tharun Pranav - Aeronautical Engineer & CompTIA Security+ Certified*
